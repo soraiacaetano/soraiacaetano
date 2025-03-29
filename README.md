@@ -12,8 +12,8 @@ Sou estudante de **Desenvolvimento Web com PHP** e estou aprendendo a construir 
 ## 📌 Projetos e Exercícios
 Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
-🔹 [Projeto 1]https://github.com/soraiacaetano/soraiacaetano - Breve descrição do projeto.
-<!-- 🔹 [Projeto 2](https://github.com/seu-usuario/projeto-2) - Breve descrição do projeto.
+🔹 [Projeto 1](https://github.com/soraiacaetano)
+<!-- 🔹 [Projeto 2](https://github.com/soraiacaetano/NossoProjeto)
 🔹 [Projeto 3](https://github.com/seu-usuario/projeto-3) - Breve descrição do projeto. -->
 
 ## 📖 O que estou aprendendo
